@@ -38,7 +38,6 @@ const budi = {
 </a>
 </p>
 
-[![Activity Graph Budi Setiawan](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&custom_title=Budi%20Setiawan&theme=react-dark)](https://github.com/budistwn15/)
 
 ### ✨ Connect With Me
 
