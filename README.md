@@ -1,4 +1,4 @@
-# Hello everyone <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> I'm [Budi Setiawan](https://github.com/budistwn15) 👨‍💻
+# Hello everyone <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> I'm [Budi Setiawan](https://github.com/budistwn15)
 
 I am an undergraduate student in Informatics Engineering who is currently participating in the Bangkit 2022 - Android Developer program at Bangkit Academy. If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/budi-setiawan15/) account.
 
