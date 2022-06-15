@@ -29,7 +29,7 @@ const budi = {
 };
 ```
 
-### ✨ Statistics
+### ✨ Statistics ✨
 
 <p align="left">
 <a href="https://github.com/budistwn15">
