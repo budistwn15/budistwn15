@@ -13,30 +13,12 @@ I am an undergraduate student in Informatics Engineering who is currently partic
 
 #### Check My Portfolio [Here](https://budistwn15.github.io/)
 
-### ✨ AboutMe.js
+## 📕 Top projects I've contributed to
 
-```javascript
-const budi = {
-  pronouns: "he" | "him",
-  code: [HTML, CSS, Javascript, PHP, Dart, Kotlin],
-  askMeAbout: [
-    "Front-End Developer",
-    "Back-End Developer",
-    "Full-Stack Developer",
-    "Android Developer",
-    "Instructur"
-  ],
-  technologies: {
-    frontEnd: {
-      css: ["Bootstrap", "Tailwind", "React"]
-    },
-    backEnd: {
-      php: ["Laravel", "Codeigniter"],
-      js: ["Node.js"]
-    }
-  }
-};
-```
+<p align="left">
+  <a href="https://github.com/budistwn15/plane"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=plane&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+</p>
+
 
 ## 🔥 Streak stats
 
@@ -123,6 +105,7 @@ const budi = {
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=budistwn15&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
 
 ### ✨ Connect With Me
