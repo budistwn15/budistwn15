@@ -11,13 +11,24 @@
 
 I am an undergraduate student in Informatics Engineering who is currently participating in the Bangkit 2022 - Android Developer program at Bangkit Academy. If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/budi-setiawan15/) account.
 
-#### Check My Portfolio [Here](https://budistwn15.github.io/)
+## 📘 My top projects
+
+<p align="left">
+  <a href="https://github.com/budistwn15/plane"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=plane&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Plane"></a>
+  <a href="https://github.com/budistwn15/sikoding"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=sikoding&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
+  <a href="https://github.com/budistwn15/ecommerce-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=ecommerce-app&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
+  <a href="https://github.com/budistwn15/nomads"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=nomads&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
+  <a href="https://github.com/budistwn15/store-egg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=store-egg&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
+  <a href="https://github.com/budistwn15/hefa-store"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=hefa-store&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
+  <a href="https://github.com/budistwn15/microservice"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=microservice&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
+  <a href="https://github.com/budistwn15/laracamp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=laracamp&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
+</p>
 
 ## 📕 Top projects I've contributed to
 
 <p align="left">
-  <a href="https://github.com/cat-pedigree/app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cat-pedigree&repo=app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/cat-pedigree/api-cat"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cat-pedigree&repo=api-cat&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/cat-pedigree/app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cat-pedigree&repo=app&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="App Cat Pedigree"></a>
+  <a href="https://github.com/cat-pedigree/api-cat"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cat-pedigree&repo=api-cat&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Api Cat"></a>
 </p>
 
 
