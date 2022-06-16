@@ -11,6 +11,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/budi-setiawan15/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/budistwn15"><img alt="Github" title="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img alt="Dribbble" title="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+  <a href="#"><img alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.behance.net/budistwn15"><img alt="Behance" title="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
 </p>
 
 <br/>
