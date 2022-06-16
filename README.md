@@ -8,6 +8,13 @@
     </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/budi-setiawan15/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/budistwn15"><img alt="Github" title="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<br/>
+
 
 I am an undergraduate student in Informatics Engineering who is currently participating in the Bangkit 2022 - Android Developer program at Bangkit Academy. If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/budi-setiawan15/) account.
 
@@ -118,10 +125,3 @@ I am an undergraduate student in Informatics Engineering who is currently partic
 </a>
 </p>
 <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-
-
-### ✨ Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/budi-setiawan15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="budi-setiawan15" height="30" width="40" /></a>
-</p>
