@@ -16,7 +16,7 @@
 <br/>
 
 
-Hello everyone, My name is Budi Setiawan and you can call me Budi. I am a Fullstak web and android developer with industry experience in building websites and applications. I am currently participating in the Bangkit 2022 Mobile Development program, I am very excited to learn android at Bangkit. I aspire to work for several companies and develop software that has a positive impact on Society.
+Hello everyone, My name is Budi Setiawan and you can call me Budi. I am a Fullstack web and android developer with industry experience in building websites and applications. I am currently participating in the Bangkit 2022 Mobile Development program, I am very excited to learn android at Bangkit. I aspire to work for several companies and develop software that has a positive impact on Society.
 
 I have a strong knowledge of computer science and I want to learn more concepts and dive deep into the journey of computer science. Good in Object Oriented Programming, Data Structures, Algorithms, Database Systems, mobile programming, web programming, Design Patterns and Problem Solving skills. I practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors.
 
