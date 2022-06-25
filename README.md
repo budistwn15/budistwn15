@@ -1,7 +1,7 @@
 ![Budi Setiawan](https://github.com/budistwn15/budistwn15/blob/main/img/bg-budi.png)
 
 <h3 align="center">
-  Welcome to Budi Setiawan profile
+  Welcome to Budi Setiawan profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
