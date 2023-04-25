@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/budistwn15/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#2980b9&vCenter=true&size=22">
+  <a href="https://github.com/budistwn15/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#2980b9&vCenter=true&size=22">
     </a>
 </p>
 
@@ -21,104 +21,14 @@
 <br/>
 
 
-Hello everyone, My name is Budi Setiawan and you can call me Budi. I am a Fullstack web, Android developer and UI/UX Designer with industry experience in building websites and applications. I am currently participating in the Bangkit 2022 Mobile Development program, I am very excited to learn android at Bangkit. I aspire to work for several companies and develop software that has a positive impact on Society
+Hi there, I'm Budi Setiawan, a passionate full-stack developer with a strong interest in web development. My GitHub repository showcases some of my latest projects and contributions to open source projects.
 
-I have a strong knowledge of computer science and I want to learn more concepts and dive deep into the journey of computer science. Good in Object Oriented Programming, Data Structures, Algorithms, Database Systems, mobile programming, web programming, Design Patterns and Problem Solving skills. I practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors.
+As a full-stack developer, I have experience in both front-end and back-end development. I specialize in building responsive web applications using modern web technologies such as HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and more.
 
-I am interested in learning Back-End, Front-End, Kotlin, Virtualization, and Cloud Computing.
+I'm an advocate of open source software and believe that contributing to the community is a great way to learn and grow as a developer. That's why I'm always looking for opportunities to contribute to open source projects and make a positive impact on the developer community.
 
-## 📘 My top projects
+If you're interested in my work or have any questions, feel free to explore my GitHub repository or get in touch with me. I'm always excited to collaborate with like-minded developers and work on new and exciting projects.
 
-<p align="left">
-  <a href="https://github.com/budistwn15/plane"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=plane&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Plane"></a>
-  <a href="https://github.com/budistwn15/sikoding"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=sikoding&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
-  <a href="https://github.com/budistwn15/ecommerce-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=ecommerce-app&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
-  <a href="https://github.com/budistwn15/nomads"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=nomads&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
-  <a href="https://github.com/budistwn15/store-egg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=store-egg&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
-  <a href="https://github.com/budistwn15/hefa-store"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=hefa-store&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
-  <a href="https://github.com/budistwn15/microservice"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=microservice&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
-  <a href="https://github.com/budistwn15/laracamp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=budistwn15&repo=laracamp&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sikoding"></a>
-</p>
-
-## 📕 Top projects I've contributed to
-
-<p align="left">
-  <a href="https://github.com/cat-pedigree/app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cat-pedigree&repo=app&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="App Cat Pedigree"></a>
-  <a href="https://github.com/cat-pedigree/api-cat"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cat-pedigree&repo=api-cat&theme=react&bg_color=1F222E&title_color=2980b9&icon_color=F8D866&hide_border=true&show_icons=false" alt="Api Cat"></a>
-</p>
+Thank you for visiting my profile and have a great day!
 
 
-## 🔥 Streak stats
-
-<p align="center">
-  <a href="https://github.com/budistwn15/">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=budistwn15&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming and markup languages
-
-<p>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</p>
-
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-</p>
-
-### 🗄️ Databases and cloud hosting
-
-<p>
-  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
-  <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-  <a href="#"><img alt="Maria DB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-</p>
-
-### 💻 Other
-
-<p>
-  <a href="#"><img alt="Fast API" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
-  <a href="#"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37&logo=postman?logoColor=white"></a>
-  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-</p>
-
-### ✨ Statistics ✨
-
-<p align="left">
-<a href="https://github.com/budistwn15">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=budistwn15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=budistwn15&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-
-## 😁 Jokes
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
